@@ -231,7 +231,7 @@
           </execution>
         </executions>
       </plugin>
-<!--             <plugin>
+            <plugin>
         <groupId>org.jacoco</groupId>
         <artifactId>jacoco-maven-plugin</artifactId>
         <version>${jacoco.version}</version>
@@ -250,7 +250,7 @@
           </execution>
         </executions>
       </plugin>
-      -->
+     
 
       <!-- Spring Boot Actuator displays build-related information if a git.properties file is
       present at the classpath -->

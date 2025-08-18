@@ -231,7 +231,8 @@
           </execution>
         </executions>
       </plugin>
-      <!-- commenting this for testing------
+      <!-- commenting this for testing------ -->
+      <!--
       <plugin>
         <groupId>org.jacoco</groupId>
         <artifactId>jacoco-maven-plugin</artifactId>
